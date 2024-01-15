@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://whoisswitchx.netlify.app/](https://whoisswitchx.netlify.app/)
 
-- 💬 Ask me about **Java, MySQL, JSP, JDBC, Servlet**
+- 💬 Ask me about **Java, MySQL, JSP, JDBC, Servlet, Bootstrap**
 
 - 📫 How to reach me **saurabhmathe2000@gmail.com**
 
