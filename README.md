@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spring, Springboot**
 
-- 👨‍💻 All of my projects are available at [https://whoisswitchx.netlify.app/](https://whoisswitchx.netlify.app/)
+- 👨‍💻 All of my projects are available at **[https://whoisswitchx.netlify.app/](https://whoisswitchx.netlify.app/)**
 
 - 💬 Ask me about **Java, MySQL, JSP, JDBC, Servlet, Bootstrap**
 
