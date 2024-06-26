@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java FullStack developer from India</h3>
 <h3 align="center">I have a good understanding of Java, Hibernate, MySQL and now I'm heading up towards frontend development to become a full-stack developer</h3>
 
-- 🌱 I’m currently learning **Spring, Springboot** 
+- 🌱 I’m currently learning **Spring, Springboot**  
 
 - 👨‍💻 All of my projects are available at **[https://whoisswitchx.netlify.app/](https://whoisswitchx.netlify.app/)**
 
